@@ -28,6 +28,10 @@ I'm going to be working on 0.2 which is the Cipher update, which includes a codi
 | MIDI (Made by RokCoder) |         |
 | Data Fencing            | SYSHELP |
 
+The commands --send and --find will be deleted as the coding language will have variable manipulation.
+
 ## Conclusion
 
 Thanks for checking out Kernel Magic! Please report any issues if necessary.
+
+Helping is greatly appreciated.
