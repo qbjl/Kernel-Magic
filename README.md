@@ -23,7 +23,7 @@ I'm going to be working on 0.2 which is the Cipher update, which includes a codi
 
 | Update                  | Name    |
 |-------------------------|---------|
-| Coding Language         | Nectar  |
+| Coding Language (35%)   | Nectar  |
 | Pen Graphics            | Origin  |
 | MIDI (Made by RokCoder) |         |
 | Data Fencing            | SYSHELP |
